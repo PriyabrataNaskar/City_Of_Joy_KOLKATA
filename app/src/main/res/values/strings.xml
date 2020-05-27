@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">City Of Joy: Kolkata</string>
+
+    <string name="category_food">Food</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_religious">Religious</string>
+    <string name="category_nature_park">Nature Park</string>
+
+
+    <string name="food"></string>
+    <string name="food_kolkata_biriani">Kolkata Biriani</string>
+    <string name="food_kolkata_biriani_description">Nice combo of cooked potato, rice &amp; chicken</string>
+    <string name="food_mutton_curry">Mutton Curry</string>
+    <string name="food_mutton_curry_description">Curry cooked with mutton &amp; a variety of vegetables</string>
+    <string name="food_fish_curry">Fish Curry</string>
+    <string name="food_fish_curry_description">Curry cooked with fish &amp; must have traditional dish</string>
+    <string name="food_shuktoy">Shukto</string>
+    <string name="food_shukto_description">Bengali vegetarian recipe &amp; must have traditional dish</string>
+    <string name="food_alu_posto">Alu Posto</string>
+    <string name="food_alu_posto_description">Bengali vegetarian recipe &amp; perfect dish with dal &amp; rice</string>
+    <string name="food_alu_tarkari_luchi">Alu Tarkari With Luchi</string>
+    <string name="food_alu_tarkari_luchi_description">Ideal snacks to have in breakfast</string>
+    <string name="food_phuchka">Phuchka</string>
+    <string name="food_phuchka_description">Combo of Spicy masala, best street food of Kolkata</string>
+    <string name="food_jhal_muri">Jhal Muri</string>
+    <string name="food_jhal_muri_description">perfect spicy snack, street food of Kolkata</string>
+    <string name="food_roshogolla">Roshogolla</string>
+    <string name="food_roshogolla_description">Most popular sweet that you must try</string>
+    <string name="food_misti_doi">Misti Doi</string>
+    <string name="food_misti_doi_description">another popular sweet that you must try</string>
+    <string name="food_cha">Bengali Tea</string>
+    <string name="food_cha_description">just have it. Don\'t miss it out</string>
+
+    <string name="monuments_victoria">Victoria Memorial</string>
+    <string name="monuments_victoria_description">Dedicated to the memory of Queen Victoria</string>
+    <string name="monuments_birla_planetarium">Birla Planetarium</string>
+    <string name="monuments_birla_planetarium_description">Largest Planetarium in Asia and 2nd largest in the world</string>
+    <string name="monuments_national_museum">Indian Museum, Kolkata</string>
+    <string name="monuments_national_museum_description">9-th Oldest museum of the world</string>
+    <string name="monuments_eden_gardens">Eden Gardens</string>
+    <string name="monuments_eden_gardens_description">Oldest cricket ground in India</string>
+    <string name="monuments_james_prinsep_memorial">James Prinsep Memorial</string>
+    <string name="monuments_james_prinsep_memorial_description">In the memory of James Prinsep</string>
+    <string name="monuments_shobhabajar_rajbari">Shobhabazar Rajbari</string>
+    <string name="monuments_shobhabajar_rajbari_description">The palace of Shobhabazar Royal Family</string>
+    <string name="monuments_howrah_bridge">Howrah Bridge</string>
+    <string name="monuments_howrah_bridge_description">One of the longest cantilever bridge also known as Rabindra Setu</string>
+    <string name="monuments_vidyasagar_setu">Vidyasagar Setu</string>
+    <string name="monuments_vidyasagar_setu_description">also known as 2nd Hooghly Bridge</string>
+    <string name="monuments_marble_palace">Marble Palace</string>
+    <string name="monuments_marble_palace_description">famous for its marble, floors and sculptures</string>
+    <string name="monuments_shaheed_minar">Shaheed Minar</string>
+    <string name="monuments_shaheed_minar_description">rededicated to the memory of martyrs of the Indian Independence Movement</string>
+
+    <string name="nature_prinsep_ghat">Prinsep Ghat</string>
+    <string name="nature_description_prinsep_ghat">located on the banks of hooghly river</string>
+    <string name="nature_rabindra_sarobor">Rabindra Sarobor</string>
+    <string name="nature_description_rabindra_sarobor">artificial lake in South Kolkata</string>
+    <string name="nature_eliot_park">Elliot Park</string>
+    <string name="nature_description_eliot_park">a beautiful place to freshen up</string>
+    <string name="nature_b_garden">Botanical Garden</string>
+    <string name="nature_description_b_garden">known as Indian Botanical located in Howrah</string>
+    <string name="nature_bagbazar_ghat">Bagbazar Ghat</string>
+    <string name="nature_description_bagbazar_ghat">in the old Kolkata</string>
+    <string name="nature_maidan">Maidan</string>
+    <string name="nature_description_maidan">open place to take breath</string>
+    <string name="nature_alipur_zoo">Alipur Zoo</string>
+    <string name="nature_description_alipur_zoo">variety of animals</string>
+    <string name="nature_eco_park">Eco Park</string>
+    <string name="nature_description_eco_park">popular tourist spot</string>
+
+    <string name="religious_kalighat">Kalighat</string>
+    <string name="religious_description_kalighat">hindu temple</string>
+    <string name="religious_church">St. Cathedral Church</string>
+    <string name="religious_description_church">Christian church</string>
+    <string name="religious_belur_math">Belur Math</string>
+    <string name="religious_description_belur_math">located close to Kolkata</string>
+</resources>
